@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="R24_JesusCG_V1">
+      <HintPath>ModeloDatos\R24_JesusCG_V1 1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
